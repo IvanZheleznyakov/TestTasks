@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberConverter", "NumberCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberConverterTests", "..\NumberConverterTests\NumberConverterTests.csproj", "{ECBA94CC-BBC9-46AC-BC20-3B0719051ABA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BracketBalance", "..\BracketBalance\BracketBalance.csproj", "{7917DF79-CBFD-4BD3-8262-35FC9DA7ACC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BracketBalanceTests", "..\BracketBalanceTests\BracketBalanceTests.csproj", "{D5831AD8-2B98-48EE-825E-24113E51EBA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{ECBA94CC-BBC9-46AC-BC20-3B0719051ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECBA94CC-BBC9-46AC-BC20-3B0719051ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECBA94CC-BBC9-46AC-BC20-3B0719051ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7917DF79-CBFD-4BD3-8262-35FC9DA7ACC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7917DF79-CBFD-4BD3-8262-35FC9DA7ACC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7917DF79-CBFD-4BD3-8262-35FC9DA7ACC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7917DF79-CBFD-4BD3-8262-35FC9DA7ACC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5831AD8-2B98-48EE-825E-24113E51EBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5831AD8-2B98-48EE-825E-24113E51EBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5831AD8-2B98-48EE-825E-24113E51EBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5831AD8-2B98-48EE-825E-24113E51EBA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

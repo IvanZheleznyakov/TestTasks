@@ -40,7 +40,7 @@ namespace NumberConverterTests
         }
 
         [Fact]
-        public void ComplexNumbersTest()
+        public void ComplicatedNumbersTest()
         {
             string str1 = "MDXCIV";
             string str2 = "MCDIII";
