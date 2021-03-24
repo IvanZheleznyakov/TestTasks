@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zheleznyakov_ie\\Desktop\\Projects\\DataWorksTest\\DWTest\\DWTest.csproj",
-      "projectName": "DWTest",
-      "projectPath": "C:\\Users\\zheleznyakov_ie\\Desktop\\Projects\\DataWorksTest\\DWTest\\DWTest.csproj",
+      "projectUniqueName": "C:\\Users\\zheleznyakov_ie\\Desktop\\Projects\\DataWorksTest\\DWTest\\NumberConverter.csproj",
+      "projectName": "NumberConverter",
+      "projectPath": "C:\\Users\\zheleznyakov_ie\\Desktop\\Projects\\DataWorksTest\\DWTest\\NumberConverter.csproj",
       "packagesPath": "C:\\Users\\zheleznyakov_ie\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\zheleznyakov_ie\\Desktop\\Projects\\DataWorksTest\\DWTest\\obj\\",
       "projectStyle": "PackageReference",
