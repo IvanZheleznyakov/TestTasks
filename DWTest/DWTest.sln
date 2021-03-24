@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberConverter", "NumberConverter.csproj", "{F1AF468E-36C5-418D-AC59-36704F5771D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberConverter", "NumberConverter.csproj", "{F1AF468E-36C5-418D-AC59-36704F5771D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberConverterTests", "..\NumberConverterTests\NumberConverterTests.csproj", "{ECBA94CC-BBC9-46AC-BC20-3B0719051ABA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberConverterTests", "..\NumberConverterTests\NumberConverterTests.csproj", "{ECBA94CC-BBC9-46AC-BC20-3B0719051ABA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BracketBalance", "..\BracketBalance\BracketBalance.csproj", "{7917DF79-CBFD-4BD3-8262-35FC9DA7ACC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BracketBalance", "..\BracketBalance\BracketBalance.csproj", "{7917DF79-CBFD-4BD3-8262-35FC9DA7ACC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BracketBalanceTests", "..\BracketBalanceTests\BracketBalanceTests.csproj", "{D5831AD8-2B98-48EE-825E-24113E51EBA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BracketBalanceTests", "..\BracketBalanceTests\BracketBalanceTests.csproj", "{D5831AD8-2B98-48EE-825E-24113E51EBA4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyLinkedList", "..\MyLinkedList\MyLinkedList.csproj", "{8A9D4D15-11D3-4441-A28E-7238EB5D9031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLinkedListTests", "..\MyLinkedListTests\MyLinkedListTests.csproj", "{975CD973-00C5-4401-90F7-7FE3632BCEF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{D5831AD8-2B98-48EE-825E-24113E51EBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5831AD8-2B98-48EE-825E-24113E51EBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5831AD8-2B98-48EE-825E-24113E51EBA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A9D4D15-11D3-4441-A28E-7238EB5D9031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A9D4D15-11D3-4441-A28E-7238EB5D9031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A9D4D15-11D3-4441-A28E-7238EB5D9031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A9D4D15-11D3-4441-A28E-7238EB5D9031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{975CD973-00C5-4401-90F7-7FE3632BCEF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975CD973-00C5-4401-90F7-7FE3632BCEF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975CD973-00C5-4401-90F7-7FE3632BCEF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975CD973-00C5-4401-90F7-7FE3632BCEF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
