@@ -29,7 +29,7 @@ namespace NumberConverter
             return result;
         }
 
-        public static int RomanDigitToInt(char romanDigit)
+        private static int RomanDigitToInt(char romanDigit)
         {
             return romanDigit switch
             {
