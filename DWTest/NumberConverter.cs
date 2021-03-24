@@ -12,11 +12,11 @@ namespace NumberConverter
         {
             int result = 0;
             int length = romanNumber.Length;
-            for (int i = 0; i != length; ++i)
+            for (int i = 0; i < length; ++i)
             {
                 int currentNumber = RomanDigitToInt(romanNumber[i]);
                 int nextNumber = (i == length - 1) ? 0 : RomanDigitToInt(romanNumber[i + 1]);
-                if (currentNumber > nextNumber)
+                if (currentNumber >= nextNumber)
                 {
                     result += currentNumber;
                 }
